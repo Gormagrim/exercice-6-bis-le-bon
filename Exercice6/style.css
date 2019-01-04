@@ -1,0 +1,58 @@
+.carre{
+  width:80%;
+  height:20px;
+  background:green;
+  float: left;
+}
+.carre2{
+  width:20%;
+  height:20px;
+  background:blue;
+  float: right;
+}
+.carre3{
+  width:33%;
+  height:50px;
+  background:red;
+  float: left;
+}
+
+.carre4{
+  width:33%;
+  height:25px;
+  background:orange;
+  margin-left: auto;
+  float: left;
+}
+.carre5{
+  width:34%;
+  height:25px;
+  background:grey;
+  float: right;
+}
+.carre6{
+  width:22%;
+  height:25px;
+  background:yellow;
+  float: left;
+  margin-left: auto;
+}
+.carre7{
+  width:22%;
+  height:25px;
+  background:gold;
+  float: right;
+}
+.carre8{
+  width:23%;
+  height:25px;
+  background:blue;
+  float: right;
+  margin-right: auto;
+}
+.carre9{
+  width:100%;
+  height:70px;
+  background:pink;
+  float: right;
+}
